@@ -1,3 +1,10 @@
+## 2.1.1
+
+### Patch Changes
+
+- fe0311f: A `%%` comment inside a footnote definition no longer grows indentation on a whitespace-only
+  line each time it is formatted.
+
 ## 2.1.0
 
 ### Minor Changes
